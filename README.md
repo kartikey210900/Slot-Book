@@ -1,6 +1,5 @@
 # Slot Booking Application  
 
-## Frontend Intern Assessment - Zelthy  
 
 ### 🌟 Live Demo: [Slot Booking Application](https://slot-book-eight.vercel.app/)  
 
